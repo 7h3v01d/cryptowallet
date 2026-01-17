@@ -1,0 +1,10 @@
+pyqt5
+web3
+mnemonic
+cryptography
+qrcode
+pillow
+requests
+pyinstaller
+pyarmor
+bitcoinlib
