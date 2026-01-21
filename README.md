@@ -1,5 +1,21 @@
 # Multi-Chain Wallet
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 A secure, non-custodial desktop application for managing Ethereum (ETH), Bitcoin (BTC), Solana (SOL), Polygon, and Avalanche wallets, built with Python and PyQt5. Supports wallet creation, balance checks, transactions, token swaps, portfolio tracking, and QR code generation.
 
 ## Features
